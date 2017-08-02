@@ -14,6 +14,12 @@
   padding-bottom: 50px;
   margin: auto;
 }
+.welcome-btn {
+  color: white;
+  width: 20%;
+  margin: auto;
+  padding-top: 100px;
+}
 
 .welcome {
   width: 50%;
