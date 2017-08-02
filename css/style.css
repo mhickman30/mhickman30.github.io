@@ -15,6 +15,11 @@
   margin: auto;
 }
 
+.welcome {
+  width: 50%;
+  margin: auto;
+}
+
 body {
   background-image: url('/images/MDH_7857.jpg');
   background-position: 100% 50%;
