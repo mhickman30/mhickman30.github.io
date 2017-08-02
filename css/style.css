@@ -5,13 +5,18 @@
   #103572 navy blue
   #7df9ff electric blue
 */
+.enter-wrapper {
+  text-align: center;
+  font-family: 'Allerta Stencil';
+}
+
 .enter-title {
-  font-size: 2em;
+  font-size: 4em;
   color: white;
 }
 
 .enter-subtitle {
-  font-size: 1.5em;
+  font-size: 3em;
   color: white;
 }
 
@@ -147,9 +152,6 @@ p {
   text-align: left;
 }
 
-.enter-wrapper {
-  text-align: center;
-}
 .my-containers {
   padding: 1em 5em;
 }
