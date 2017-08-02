@@ -13,11 +13,13 @@
 .enter-title {
   font-size: 4em;
   color: white;
+  margin-bottom: 40px;
 }
 
 .enter-subtitle {
   font-size: 3em;
   color: white;
+  margin-bottom: 300px;
 }
 
 #lit {
@@ -30,8 +32,8 @@
   margin: auto;
 }
 .welcome-btn {
-  position: absolute;
   top: 50%;
+  display: flex;
 }
 
 .welcome {
