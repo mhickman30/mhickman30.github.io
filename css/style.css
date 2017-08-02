@@ -5,6 +5,9 @@
   #103572 navy blue
   #7df9ff electric blue
 */
+#lit {
+  background-color: white;
+}
 
 #photologo {
   height: 100%;
@@ -23,7 +26,7 @@ body {
   background-color: white;
   color: red;
   margin-bottom: 0;
-  padding: 20px;
+  padding: 10px;
   border-bottom: none;
   font-family: 'Karla', sans-serif;
   font-size: 1.3em;
