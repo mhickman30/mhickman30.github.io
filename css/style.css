@@ -7,7 +7,7 @@
 */
 
 body {
-  background-image: url("https://static.pexels.com/photos/102616/pexels-photo-102616.jpeg"); /*url("https://pixabay.com/get/e83db7062cf4003ed1534705fb0938c9bd22ffd41db9154395f6c47ba0/blurred-1869401_1920.jpg");*/
+  background-image: url('/images/IMG_6070.jpg');
   background-position: 100% 50%;
   background-repeat: no-repeat;
   background-attachment: fixed;
