@@ -5,6 +5,16 @@
   #103572 navy blue
   #7df9ff electric blue
 */
+.enter-title {
+  font-size: 2em;
+  color: white;
+}
+
+.enter-subtitle {
+  font-size: 1.5em;
+  color: white;
+}
+
 #lit {
   background-color: white;
 }
