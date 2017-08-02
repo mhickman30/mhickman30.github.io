@@ -33,7 +33,12 @@
 }
 .welcome-btn {
   top: 50%;
+  color: white;
   display: flex;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  background-color: transparent;
+  border: 2px black solid;
 }
 
 .welcome {
