@@ -7,7 +7,7 @@
 */
 
 #photologo {
-  height: 50%;
+  height: 100%;
   margin: auto;
 }
 
@@ -20,7 +20,7 @@ body {
 }
 
 .navbar {
-  background-color: black;
+  background-color: white;
   color: red;
   margin-bottom: 0;
   padding: 10px;
