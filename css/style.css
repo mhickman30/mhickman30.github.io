@@ -15,10 +15,8 @@
   margin: auto;
 }
 .welcome-btn {
-  color: white;
-  width: 20%;
-  margin: auto;
-  padding-top: 100px;
+  position: absolute;
+  top: 50%;
 }
 
 .welcome {
@@ -139,6 +137,9 @@ p {
   text-align: left;
 }
 
+.enter-wrapper {
+  text-align: center;
+}
 .my-containers {
   padding: 1em 5em;
 }
