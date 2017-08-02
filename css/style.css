@@ -6,6 +6,11 @@
   #7df9ff electric blue
 */
 
+#photologo {
+  height: 50%;
+  margin: auto;
+}
+
 body {
   background-image: url('/images/MDH_7857.jpg');
   background-position: 100% 50%;
