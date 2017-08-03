@@ -135,6 +135,7 @@ body {
 .section {
   width: 100%;
   margin: auto;
+  text-align: center;
 }
 
 .footer {
@@ -163,9 +164,9 @@ ol, ul {
 }
 
 .mattImage {
-  margin-bottom: 0;
-  height: 300px;
-  margin-top: 0;
+  height: 25%;
+  width: 25%;
+  margin: auto;
 }
 
 .copyright {
