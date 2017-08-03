@@ -164,8 +164,6 @@ ol, ul {
 
 .mattImage {
   margin-bottom: 0;
-  position: absolute;
-  top: 50%;
   height: 300px;
   margin-top: 0;
 }
