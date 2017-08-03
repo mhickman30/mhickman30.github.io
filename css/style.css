@@ -38,9 +38,10 @@
 }
 .welcome-btn {
   color: white;
+  width: 40px;
   display: inline-block;
   text-transform: uppercase;
-  letter-spacing: 2px;
+  letter-spacing: 1px;
   background-color: transparent;
   border: 2px black solid;
 }
