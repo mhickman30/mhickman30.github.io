@@ -38,7 +38,7 @@
 }
 .welcome-btn {
   color: white;
-  width: 40px;
+  width: 80px;
   display: inline-block;
   text-transform: uppercase;
   letter-spacing: 1px;
@@ -52,11 +52,10 @@ a {
     text-decoration: none;
     color: white;
   }
-}
-
-.welcome {
-  width: 50%;
-  margin: auto;
+  :visited {
+    color: white;
+    text-decoration: none;
+  }
 }
 
 body {
