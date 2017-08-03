@@ -76,7 +76,7 @@ body {
   font-size: 1.3em;
   text-transform: uppercase;
   letter-spacing: 3px;
-  border-bottom: 2px solid black;
+  border-bottom: 1px solid black;
 }
 
 .navbar-inverse .navbar-nav>li>a:focus, .navbar-inverse .navbar-nav>li>a:hover {
