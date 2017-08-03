@@ -14,7 +14,7 @@
   font-size: 4em;
   color: white;
   margin-bottom: 20px;
-  margin-top: 40px;
+  margin-top: 80px;
 }
 
 .enter-subtitle {
@@ -28,15 +28,6 @@
   font-size: 3em;
 }
 
-#lit {
-  background-color: white;
-}
-
-#photologo {
-  height: 180%;
-  padding-bottom: 50px;
-  margin: auto;
-}
 .welcome-btn {
   padding: 12px 5px;
   color: white;
@@ -56,6 +47,11 @@ button:hover {
   text-decoration: none;
   color: white;
   background-color: lightgray;
+}
+
+a:hover {
+  text-decoration: none;
+  color: black;
 }
 
 a:visited {
