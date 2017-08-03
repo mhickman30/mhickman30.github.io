@@ -84,25 +84,6 @@ body {
     background-color: lightgray;
 }
 
-#test1 {
-  padding: 190px 20px 80px 20px;
-  background-color: transparent;
-  text-align: center;
-  color: white;
-  font-size: 6vw;
-  font-family: 'Karla', sans-serif;
-  text-shadow: 4px 4px 2px black, 2px 2px 1px #7df9ff;
-}
-
-#future {
-  font-size: 4.5vw;
-  padding-top: 0px;
-  background-color: #7df9ff;
-  width: 30%;
-  text-shadow: 4px 4px black;
-  margin: auto;
-}
-
 #about {
   background-color: black;
   text-align: center;
