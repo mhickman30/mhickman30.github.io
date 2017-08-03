@@ -161,11 +161,11 @@ ol, ul {
     margin-bottom: 0;
 }
 
-#mattImage {
+.mattImage {
   margin-bottom: 0;
   position: absolute;
   top: 50%;
-  height: 150px;
+  height: 300px;
   margin-top: 0;
 }
 
