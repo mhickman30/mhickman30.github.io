@@ -156,7 +156,7 @@ body {
 
 p {
   padding-top: 0px;
-  color: white;
+  color: red;
   font-size: 18px;
   line-height: 1.75em;
   text-align: left;
@@ -168,12 +168,6 @@ p {
 
 #mattImage {
   margin-bottom: 50px;
-}
-
-#footer {
-  color: red;
-  background-color: white;
-  text-align: center;
 }
 
 .copyright {
