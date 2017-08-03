@@ -45,14 +45,14 @@
   text-transform: uppercase;
   letter-spacing: 1px;
   background-color: transparent;
-  border: 2px black solid;
+  border: 2px white solid;
 }
 
 a {
   color: white;
 }
 
-a:hover {
+button:hover {
   text-decoration: none;
   color: white;
   background-color: lightgray;
