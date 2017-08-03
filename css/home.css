@@ -161,9 +161,10 @@ body {
   left: 0;
   background-color: transparent;
   text-align: center;
-  p {
-    margin: 0 0;
-  }
+}
+
+p {
+  margin: 0 0;
 }
 
 .my-containers {

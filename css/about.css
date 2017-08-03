@@ -148,6 +148,10 @@ body {
   text-align: center;
 }
 
+p {
+  margin: 0 0;
+}
+
 .my-containers {
   padding: 0.7em 5em 0.5em 5em;
 }
