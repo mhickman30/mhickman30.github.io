@@ -37,6 +37,7 @@
   margin: auto;
 }
 .welcome-btn {
+  padding: 15px 0;
   color: white;
   width: 120px;
   display: inline-block;
