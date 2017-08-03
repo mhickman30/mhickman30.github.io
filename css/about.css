@@ -51,10 +51,6 @@
   border: 2px black solid;
 }
 
-#enter, #insta {
-  color: white;
-}
-
 .welcome {
   width: 50%;
   margin: auto;
@@ -123,22 +119,6 @@ body {
   text-align: center;
 }
 
-#test3 {
-  background-color: transparent;
-  padding-top: 20px;
-  padding-bottom: 20px;
-  text-align: center;
-  color: red;
-}
-
-#test5 {
-  padding-top: 20px;
-  padding-bottom: 20px;
-  background-color: #103572;
-  text-align: center;
-  color: red;
-}
-
 .sectionHeader {
   border: 2px solid #7df9ff;
   padding: 0.5em;
@@ -174,6 +154,10 @@ body {
 
 #mattImage {
   margin-bottom: 50px;
+  position: absolute;
+  top: 50%;
+  height: 100px;
+  margin-top: -50px;
 }
 
 .copyright {
