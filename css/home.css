@@ -155,10 +155,11 @@ body {
   border-top: 1px black solid;
   font-size: 18px;
   position: absolute;
+  color: white;
   right: 0;
   bottom: 0;
   left: 0;
-  background-color: white;
+  background-color: transparent;
   text-align: center;
 }
 
