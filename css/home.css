@@ -114,7 +114,7 @@ body {
 }
 
 #connect {
-  background-color: black;
+  background-color: white;
   text-align: center;
   color: red;
   margin-top: 50px;
@@ -202,21 +202,6 @@ p {
 }
 
 
-#myCarousel {
-  padding-bottom: 30px;
-  p {
-    text-align: center;
-  }
-
-  a {
-    text-decoration: none;
-    color: #7df9ff;
-  }
-  a:hover {
-    text-decoration: underline;
-  }
-}
-
 h4 {
   color: white;
   padding-bottom: 20px;
@@ -229,7 +214,7 @@ h4 {
 }
 
 .fa-stack {
-  color: #7df9ff;
+  color: black;
 }
 
 #mattNav {
