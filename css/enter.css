@@ -46,6 +46,10 @@
   margin: 0 5px;
 }
 
+button:focus {
+  outline: zero;
+}
+
 a {
   color: white;
 }
