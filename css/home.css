@@ -76,6 +76,11 @@ body {
   border-bottom: 2px solid white;
 }
 
+nav>li>a:hover {
+    color: black;
+    background-color: lightgray;
+}
+
 #test1 {
   padding: 190px 20px 80px 20px;
   background-color: transparent;
@@ -185,6 +190,7 @@ p {
 
 .copyright {
   font-size: 18px;
+  text-align: center;
 }
 
 #aboutMatt {
@@ -205,12 +211,6 @@ p {
 h4 {
   color: white;
   padding-bottom: 20px;
-}
-
-.carousel-caption {
-    position: relative;
-    left: auto;
-    right: auto;
 }
 
 .fa-stack {
