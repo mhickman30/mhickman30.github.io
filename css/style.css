@@ -22,6 +22,11 @@
   margin-bottom: 300px;
 }
 
+.enter-location {
+  color: white;
+  font-size: 3em;
+}
+
 #lit {
   background-color: white;
 }
@@ -38,6 +43,10 @@
   letter-spacing: 2px;
   background-color: transparent;
   border: 2px black solid;
+}
+
+#enter, #insta {
+  color: white;
 }
 
 .welcome {
