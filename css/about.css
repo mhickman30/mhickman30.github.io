@@ -88,9 +88,11 @@ body {
 .space {
   height: 80px;
   background-color: transparent;
-  color: white;
+  color: red;
   margin: auto;
+  width: 100%;
   font-size: 40px;
+  text-align: center;
 }
 
 .about {
