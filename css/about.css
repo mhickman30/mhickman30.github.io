@@ -92,15 +92,12 @@ body {
 
 .about {
   background-color: white;
-  text-align: center;
+  text-align: left;
+  font-size: 35px;
   color: black;
   margin-top: 50px;
   border-top: 1px solid black;
   border-bottom: 1px solid black;
-  p {
-    text-align: left;
-    font-size: 25px;
-  }
 }
 
 #portfolio {
