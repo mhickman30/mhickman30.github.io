@@ -6,7 +6,8 @@
   #7df9ff electric blue
 */
 .navbar-right li {
-  margin-right: 5px;
+  margin-right: 3px;
+  margin-left: 3px;
 }
 
 .enter-wrapper {
