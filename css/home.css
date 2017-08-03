@@ -154,12 +154,11 @@ body {
   margin: auto;
 }
 
-p {
+.footer {
   padding-top: 0px;
   color: red;
   font-size: 18px;
-  line-height: 1.75em;
-  text-align: left;
+  text-align: center;
 }
 
 .my-containers {
