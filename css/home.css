@@ -171,10 +171,9 @@ p {
 }
 
 #footer {
+  color: red;
   background-color: white;
-  p {
-    text-align: center;
-  }
+  text-align: center;
 }
 
 .copyright {
@@ -182,20 +181,9 @@ p {
   text-align: center;
 }
 
-#aboutMatt {
-  margin-bottom: 40px;
-  text-decoration: none;
-  color: white;
-  :hover {
-    text-decoration: none;
-    color: white;
-  }
-}
-
 #portfolioMatt {
   margin-bottom: 40px;
 }
-
 
 h4 {
   color: white;
