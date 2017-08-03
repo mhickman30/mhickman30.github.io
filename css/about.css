@@ -165,6 +165,9 @@ body {
   padding-top: 5px;
   color: black;
   border-top: 1px black solid;
+  p {
+    margin: 0 0;
+  }
 }
 
 #portfolioMatt {
