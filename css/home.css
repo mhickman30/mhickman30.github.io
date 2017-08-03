@@ -158,6 +158,11 @@ body {
   padding-top: 0px;
   color: red;
   font-size: 18px;
+  position: absolute;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  background-color: #efefef;
   text-align: center;
 }
 
