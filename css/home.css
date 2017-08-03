@@ -219,6 +219,5 @@ h4 {
 
 #mattNav {
   color: #7df9ff;
-  pointer-events: none;
-  cursor: default;
+  cursor: pointer;
 }
