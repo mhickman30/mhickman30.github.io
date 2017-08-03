@@ -38,7 +38,7 @@
 }
 .welcome-btn {
   color: white;
-  width: 80px;
+  width: 120px;
   display: inline-block;
   text-transform: uppercase;
   letter-spacing: 1px;
@@ -51,6 +51,7 @@ a {
   :hover {
     text-decoration: none;
     color: white;
+    background-color: lightgray;
   }
   :visited {
     color: white;
