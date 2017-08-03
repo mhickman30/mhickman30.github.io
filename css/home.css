@@ -84,6 +84,10 @@ body {
     background-color: lightgray;
 }
 
+.space {
+  height: 500px;
+}
+
 #about {
   background-color: black;
   text-align: center;
