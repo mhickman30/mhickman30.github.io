@@ -87,6 +87,7 @@ body {
 
 .space {
   height: 80px;
+  background-color: transparent;
 }
 
 .about {
