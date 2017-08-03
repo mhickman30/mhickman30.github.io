@@ -13,8 +13,8 @@
 .enter-title {
   font-size: 6em;
   color: white;
-  margin-bottom: 15px;
-  margin-top: 80px;
+  margin-bottom: 5px;
+  margin-top: 160px;
   font-family: 'Dancing Script';
 }
 
@@ -27,6 +27,7 @@
 .enter-location {
   color: white;
   font-size: 3em;
+  text-transform: uppercase;
 }
 
 .welcome-btn {
