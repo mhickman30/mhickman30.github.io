@@ -151,6 +151,11 @@ body {
   padding: 0.7em 5em 0.5em 5em;
 }
 
+ol, ul {
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
 #mattImage {
   margin-bottom: 0;
   position: absolute;
