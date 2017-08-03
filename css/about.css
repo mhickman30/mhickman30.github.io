@@ -86,16 +86,16 @@ body {
 }
 
 .space {
-  height: 500px;
+  height: 80px;
 }
 
-#about {
-  background-color: black;
+.about {
+  background-color: white;
   text-align: center;
-  color: red;
+  color: black;
   margin-top: 50px;
-  border-top: 2px solid white;
-  border-bottom: 2px solid white;
+  border-top: 1px solid black;
+  border-bottom: 1px solid black;
 }
 
 #portfolio {
@@ -179,11 +179,6 @@ body {
 
 #portfolioMatt {
   margin-bottom: 40px;
-}
-
-h4 {
-  color: white;
-  padding-bottom: 20px;
 }
 
 .fa-stack {
