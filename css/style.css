@@ -32,9 +32,8 @@
   margin: auto;
 }
 .welcome-btn {
-  top: 50%;
   color: white;
-  display: flex;
+  display: inline-block;
   text-transform: uppercase;
   letter-spacing: 2px;
   background-color: transparent;
