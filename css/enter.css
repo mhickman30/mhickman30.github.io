@@ -1,0 +1,68 @@
+
+/* ****  COLORS ****
+  #fff    white
+  #f4f4ef newsprint
+  #103572 navy blue
+  #7df9ff electric blue
+*/
+.enter-wrapper {
+  text-align: center;
+  font-family: 'Allerta Stencil';
+}
+
+.enter-title {
+  font-size: 4em;
+  color: white;
+  margin-bottom: 40px;
+}
+
+.enter-subtitle {
+  font-size: 3em;
+  color: white;
+  margin-bottom: 300px;
+}
+
+.enter-location {
+  color: white;
+  font-size: 3em;
+}
+
+#lit {
+  background-color: white;
+}
+
+#photologo {
+  height: 180%;
+  padding-bottom: 50px;
+  margin: auto;
+}
+.welcome-btn {
+  color: white;
+  width: 40px;
+  display: inline-block;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  background-color: transparent;
+  border: 2px black solid;
+}
+
+a {
+  color: white;
+  :hover {
+    text-decoration: none;
+    color: white;
+  }
+}
+
+.welcome {
+  width: 50%;
+  margin: auto;
+}
+
+body {
+  background-image: url('/images/MDH_7857.jpg');
+  background-position: 100% 50%;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
