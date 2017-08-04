@@ -73,7 +73,6 @@ a {
 .about-title {
   padding: 30px 0;
   text-align: center;
-  background: linear-gradient(0deg, rgba(255,255,255,0.75), transparent 30%, transparent);
 }
 
 .about-title h1 {
@@ -151,6 +150,7 @@ a:focus, a:hover {
   /* Equal to height of footer */
   /* But also accounting for potential margin-bottom of last child */
   margin-bottom: -30px;
+  background: linear-gradient(0deg, rgba(255,255,255,0.75)/*, transparent 30%*/, transparent);
 }
 
 .push {
