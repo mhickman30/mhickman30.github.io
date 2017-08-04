@@ -72,6 +72,8 @@ a {
   font-size: 50px;
   color: white;
   text-shadow: 2px 2px black;
+  background: transparent;
+  background: linear-gradient(0deg, transparent, rgba(255,255,255,0.75););
 }
 
 .matt-image {
