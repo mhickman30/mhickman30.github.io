@@ -134,6 +134,7 @@ a:focus, a:hover {
   padding-top: 9px;
   color: black;
   border-top: 1px black solid;
+  position: absolute;
   bottom: 0;
   left: 0;
   right: 0;
