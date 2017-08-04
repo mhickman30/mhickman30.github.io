@@ -92,6 +92,11 @@ a {
   width: 40%;
 }
 
+.center-line {
+  margin: auto;
+  text-align: center;
+}
+
 .connect {
   padding-left: 0;
   padding-right: 0;
