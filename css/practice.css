@@ -63,16 +63,22 @@ a {
     border-radius: 4px;
 }
 
-.about {
+.about-title {
   padding: 30px 0;
   text-align: center;
 }
 
-.about h1 {
+.about-title h1 {
   font-size: 50px;
   color: white;
 }
 
 .matt-image {
   margin: 20px 0;
+}
+
+.about {
+  background: rgb(255,255,255);
+ /* Fall-back for browsers that don't support rgba */
+  background: rgba(255,255,255,0.5);
 }
