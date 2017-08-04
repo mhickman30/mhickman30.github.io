@@ -1,0 +1,185 @@
+
+/* ****  COLORS ****
+  #fff    white
+  #f4f4ef newsprint
+  #103572 navy blue
+  #7df9ff electric blue
+*/
+.navbar-right li {
+  margin-right: 3px;
+  margin-left: 3px;
+}
+
+.enter-wrapper {
+  text-align: center;
+  font-family: 'Allerta Stencil';
+}
+
+.enter-title {
+  font-size: 4em;
+  color: white;
+  margin-bottom: 40px;
+}
+
+.enter-subtitle {
+  font-size: 3em;
+  color: white;
+  margin-bottom: 300px;
+}
+
+.enter-location {
+  color: white;
+  font-size: 3em;
+}
+
+#lit {
+  background-color: white;
+}
+
+.photologo {
+  height: 180%;
+  padding-bottom: 5px;
+  margin: auto;
+}
+.welcome-btn {
+  color: white;
+  width: 40px;
+  display: inline-block;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  background-color: transparent;
+  border: 2px black solid;
+}
+
+.welcome {
+  width: 50%;
+  margin: auto;
+}
+
+body {
+  background-image: url('/images/faded.png');
+  background-position: 100% 50%;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+  font-family: 'Karla', sans-serif;
+}
+
+.navbar {
+  background-color: white;
+  color: red;
+  margin-bottom: 0;
+  padding: 10px;
+  font-family: 'Karla', sans-serif;
+  font-size: 1.3em;
+  text-transform: uppercase;
+  letter-spacing: 3px;
+  border-bottom: 1px solid black;
+}
+
+.navbar-inverse .navbar-nav>li>a:focus, .navbar-inverse .navbar-nav>li>a:hover {
+    color: black;
+    background-color: lightgray;
+}
+
+.aboutMatt {
+  background-color: transparent;
+  color: black;
+  margin: auto;
+  width: 100%;
+  font-size: 40px;
+  text-align: center;
+  margin-top: 70px;
+  padding-top: 25px;
+  padding-bottom: 25px;
+  font-family: 'Karla', sans-serif;
+}
+
+.about {
+  background-color: white;
+  text-align: left;
+  font-size: 18px;
+  color: black;
+  border-top: 1px solid black;
+  border-bottom: 1px solid black;
+}
+
+.connect {
+  background-color: white;
+  text-align: center;
+  padding: 0.7em 5em 0.5em 5em;
+}
+
+.sectionHeader {
+  border: 2px solid #7df9ff;
+  padding: 0.5em;
+  color: white;
+  font-size: 24px;
+  font-family: 'Karla', sans-serif;
+  text-decoration: none;
+  :hover {
+    text-decoration: none;
+    color:white;
+  }
+}
+
+.section {
+  width: 100%;
+  margin: auto;
+  text-align: center;
+}
+
+.footer {
+  border-top: 1px black solid;
+  font-size: 18px;
+  position: absolute;
+  color: black;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  background-color: transparent;
+  text-align: center;
+  margin-top: 20px;
+}
+
+p {
+  margin: 0 0;
+}
+
+.my-containers {
+  padding: 0.7em 5em 0.5em 5em;
+}
+
+ol, ul {
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
+.mattImage {
+  height: 25%;
+  width: 25%;
+  margin: auto;
+  border: 1px black solid;
+}
+
+.copyright {
+  font-size: 18px;
+  text-align: center;
+  padding-top: 9px;
+  color: black;
+  border-top: 1px black solid;
+  padding: 0.7em 5em 0.5em 5em;
+}
+
+.fa-stack {
+  color: black;
+}
+
+#mattNav {
+  color: #7df9ff;
+  cursor: default;
+}
+
+.fa {
+  font-size: 58px;
+}
