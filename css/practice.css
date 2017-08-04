@@ -5,7 +5,6 @@
 
 .photologo {
   height: 180%;
-  padding-bottom: 5px;
   margin: auto;
 }
 
@@ -36,4 +35,5 @@ body {
 
 .logo {
   cursor: default;
+  margin-bottom: 30px;
 }
