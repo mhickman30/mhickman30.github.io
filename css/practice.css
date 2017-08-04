@@ -79,12 +79,6 @@ a {
   border: 1px black solid;
 }
 
-.about {
-  background: rgb(255,255,255);
- /* Fall-back for browsers that don't support rgba */
-  background: rgba(255,255,255,0.75);
-}
-
 .about p {
   margin-top: 20px;
   font-size: 18px;
@@ -108,4 +102,10 @@ a {
 
 #connect {
   margin-bottom: 20px;
+}
+
+.box {
+  background: rgb(255,255,255);
+ /* Fall-back for browsers that don't support rgba */
+  background: rgba(255,255,255,0.75);
 }
