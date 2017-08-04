@@ -66,7 +66,7 @@ a {
 .about-title {
   padding: 30px 0;
   text-align: center;
-  background: linear-gradient(0deg, transparent, blue);
+  background: linear-gradient(0deg, white, transparent);
 }
 
 .about-title h1 {
