@@ -29,10 +29,10 @@ body {
 }
 
 a {
-  color: #f4f4ef;
+  color: #9d9d9d;
 }
 
-.navbar-inverse .navbar-nav>li>a:focus {
+.navbar-inverse .navbar-nav>li>a:focus, .navbar-inverse .navbar-nav>li>a:hover {
     color: black;
     background-color: lightgray;
 }
