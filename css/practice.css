@@ -4,7 +4,7 @@
 }
 
 .photologo {
-  height: 180%;
+  height: 150%;
   padding-top: -10px;
 }
 
@@ -27,7 +27,9 @@ body {
   text-transform: uppercase;
   letter-spacing: 3px;
   border-bottom: 1px solid black;
-  color: #7df9ff;
+  a {
+    color: #7df9ff;
+  }
 }
 
 .navbar-inverse .navbar-nav>li>a:focus {
