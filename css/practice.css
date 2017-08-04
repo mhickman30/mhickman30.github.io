@@ -76,7 +76,7 @@ a {
 
 .matt-image {
   margin: 20px 0;
-  border: 1px black dashed;
+  border: 1px black solid;
 }
 
 .about {
@@ -87,5 +87,5 @@ a {
 
 .about p {
   margin-top: 20px;
-  font-size: 30px;
+  font-size: 20px;
 }
