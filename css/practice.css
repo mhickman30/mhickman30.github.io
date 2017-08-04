@@ -122,3 +122,8 @@ a:focus, a:hover {
     color: black;
     text-decoration: none;
 }
+
+.navbar-inverse .navbar-nav>.active>a, .navbar-inverse .navbar-nav>.active>a:focus, .navbar-inverse .navbar-nav>.active>a:hover {
+    color: #fff;
+    background-color: #080808;
+}
