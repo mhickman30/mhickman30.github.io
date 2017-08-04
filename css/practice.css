@@ -19,7 +19,7 @@ body {
 }
 
 .navbar {
-  /*background-color: white;
+  background-color: white;
   color: red;
   margin-bottom: 0;
   padding: 10px;
@@ -27,7 +27,7 @@ body {
   font-size: 1.3em;
   text-transform: uppercase;
   letter-spacing: 3px;
-  border-bottom: 1px solid black;*/
+  border-bottom: 1px solid black;
 }
 
 .navbar-inverse .navbar-nav>li>a:focus {
