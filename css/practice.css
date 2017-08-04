@@ -82,10 +82,18 @@ a {
 .about {
   background: rgb(255,255,255);
  /* Fall-back for browsers that don't support rgba */
-  background: rgba(255,255,255,0.5);
+  background: rgba(255,255,255,0.75);
 }
 
 .about p {
   margin-top: 20px;
   font-size: 20px;
+}
+
+.line {
+  color: black;
+  background-color: black;
+  height: 2px;
+  width: 40%;
+  margin:auto;
 }
