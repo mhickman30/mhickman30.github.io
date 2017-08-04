@@ -66,14 +66,13 @@ a {
 .about-title {
   padding: 30px 0;
   text-align: center;
+  background: linear-gradient(0deg, red, blue);
 }
 
 .about-title h1 {
   font-size: 50px;
   color: white;
   text-shadow: 2px 2px black;
-  background: red;
-  background: linear-gradient(0deg, red, blue);
 }
 
 .matt-image {
