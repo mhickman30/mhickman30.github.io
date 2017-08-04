@@ -71,10 +71,13 @@ a {
 .about-title h1 {
   font-size: 50px;
   color: white;
+  text-shadow: 2px 2px black;
 }
 
 .matt-image {
   margin: 20px 0 0 0;
+  padding: 5px 0;
+  border: 1px black solid;
 }
 
 .about {
