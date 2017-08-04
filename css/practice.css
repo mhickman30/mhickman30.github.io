@@ -87,7 +87,7 @@ a {
 
 .about p {
   margin-top: 20px;
-  font-size: 20px;
+  font-size: 18px;
 }
 
 .line {
@@ -95,4 +95,9 @@ a {
   background-color: black;
   height: 2px;
   width: 40%;
+}
+
+.connect {
+  padding-left: 0;
+  padding-right: 0;
 }
