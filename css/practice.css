@@ -117,12 +117,6 @@ a {
   margin-bottom: 20px;
 }
 
-.box {
-  background: rgb(255,255,255);
- /* Fall-back for browsers that don't support rgba */
-  background: rgba(255,255,255,0.75);
-}
-
 a:focus, a:hover {
     color: black;
     text-decoration: none;
