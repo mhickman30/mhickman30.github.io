@@ -166,3 +166,7 @@ a:focus, a:hover {
    pointer-events: none;
    cursor: default;
 }
+
+li a {
+  cursor: default;
+}
