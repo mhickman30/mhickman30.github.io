@@ -153,8 +153,8 @@ a:focus, a:hover {
 }
 
 .portraits {
-  width: 90%;
-  margin: auto;
+  width: 100%;
+  margin: 0 auto 20px auto;
   height: auto;
 }
 
