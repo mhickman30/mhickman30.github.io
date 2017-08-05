@@ -161,3 +161,8 @@ a:focus, a:hover {
 .center {
   text-align: center;
 }
+
+.current {
+   pointer-events: none;
+   cursor: default;
+}
