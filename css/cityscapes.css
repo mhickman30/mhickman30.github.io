@@ -152,7 +152,7 @@ a:focus, a:hover {
   height: 30px;
 }
 
-.portraits {
+.cityscapes {
   width: 100%;
   margin: 0 auto 20px auto;
   height: auto;
@@ -165,4 +165,8 @@ a:focus, a:hover {
 .current {
    pointer-events: none;
    cursor: default;
+}
+
+li a {
+  cursor: default;
 }
