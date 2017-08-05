@@ -151,3 +151,9 @@ a:focus, a:hover {
 .push {
   height: 30px;
 }
+
+.portraits {
+  width: 50%;
+  margin: auto;
+  height: auto;
+}
