@@ -151,3 +151,12 @@ a:focus, a:hover {
 .push {
   height: 30px;
 }
+
+.current {
+   pointer-events: none;
+   cursor: default;
+}
+
+li a {
+  cursor: default;
+}
