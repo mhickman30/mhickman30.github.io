@@ -157,3 +157,7 @@ a:focus, a:hover {
   margin: auto;
   height: auto;
 }
+
+.center {
+  text-align: center;
+}
