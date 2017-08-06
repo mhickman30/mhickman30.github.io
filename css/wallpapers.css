@@ -20,10 +20,6 @@ body {
   margin-left: 3px;
 }
 
-.photologo {
-  height: 150%;
-}
-
 .navbar {
   background-color: white;
   margin-bottom: 0;
@@ -193,4 +189,9 @@ li a {
 
 img:hover {
 	border: 2px skyblue solid;
+}
+
+.photologo:hover {
+  height: 150%;
+  border: none;
 }
