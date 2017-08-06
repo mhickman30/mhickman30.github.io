@@ -202,3 +202,16 @@ img:hover {
 #download {
   margin-bottom: 20px;
 }
+
+.welcome-btn {
+  padding: 12px 5px;
+  color: white;
+  width: 120px;
+  display: inline-block;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  background-color: transparent;
+  border: 2px white solid;
+  margin: 0 5px;
+  margin-bottom: 30px;
+}
