@@ -205,19 +205,19 @@ img:hover {
 
 .welcome-btn {
   padding: 12px 5px;
-  color: white;
+  color: black;
   width: 120px;
   display: inline-block;
   text-transform: uppercase;
   letter-spacing: 1px;
   background-color: transparent;
-  border: 2px white solid;
+  border: 2px black solid;
   margin: 0 5px;
   margin-bottom: 30px;
 }
 
 button:hover {
   text-decoration: none;
-  color: black;
+  color: white;
   background-color: lightgray;
 }
