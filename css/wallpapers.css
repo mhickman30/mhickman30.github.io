@@ -170,3 +170,28 @@ a:focus, a:hover {
 li a {
   cursor: default;
 }
+
+#myCanvas {
+	margin-top: 25px;
+	border: 1px solid #000000;
+	background-color: lightgray;
+}
+
+.middle {
+	text-align: center;
+	margin: auto;
+	background-color: lightslategray;
+}
+
+.btn {
+	margin-top: 10px;
+}
+
+.thumb {
+	width: 10%;
+	margin: 5px 10px;
+}
+
+img:hover {
+	border: 1px skyblue solid;
+}
