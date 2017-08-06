@@ -215,3 +215,9 @@ img:hover {
   margin: 0 5px;
   margin-bottom: 30px;
 }
+
+button:hover {
+  text-decoration: none;
+  color: black;
+  background-color: lightgray;
+}
