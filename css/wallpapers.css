@@ -218,6 +218,6 @@ img:hover {
 
 button:hover {
   text-decoration: none;
-  color: white;
+  color: black;
   background-color: lightgray;
 }
