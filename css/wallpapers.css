@@ -191,7 +191,14 @@ img:hover {
 	border: 2px skyblue solid;
 }
 
-.photologo:hover {
+.photologo {
   height: 150%;
+}
+
+.photologo:hover {
   border: none;
+}
+
+#download {
+  margin-bottom: 20px;
 }
