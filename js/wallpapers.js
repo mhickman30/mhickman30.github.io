@@ -11,7 +11,7 @@ document.getElementById("one").onclick = function() {
 	ctx.fillStyle = "white";
 	ctx.textAlign = "right";
 	ctx.fillText(firstName, 316, 566);
-	aye.href = "/images/wallpapers/IMG_9304-signed.png";
+	aye.href = "/images/wallpapers/IMG_9238-signed.png";
 	console.log("done");
 };
 
@@ -25,7 +25,7 @@ document.getElementById("two").onclick = function() {
 	ctx.fillStyle = "white";
 	ctx.textAlign = "right";
 	ctx.fillText(firstName, 316, 566);
-	aye.href = "/images/wallpapers/MDH_5098-signed.png"
+	aye.href = "/images/wallpapers/IMG_9304-signed.png"
 	console.log("done");
 };
 
@@ -39,7 +39,7 @@ document.getElementById("three").onclick = function() {
 	ctx.fillStyle = "white";
 	ctx.textAlign = "right";
 	ctx.fillText(firstName, 316, 566);
-	aye.href = "/images/wallpapers/MDH_8479-signed.png";
+	aye.href = "/images/wallpapers/MDH_5098-signed.png";
 	console.log("done");
 };
 
@@ -53,6 +53,6 @@ document.getElementById("four").onclick = function() {
 	ctx.fillStyle = "white";
 	ctx.textAlign = "right";
 	ctx.fillText(firstName, 316, 566);
-	aye.href = "";
+	aye.href = "/images/wallpapers/MDH_8479-signed.png";
 	console.log("done");
 };
