@@ -1,9 +1,9 @@
 var firstName = "Matt Hickman";
+var aye = document.getElementById("downlink");
 
 function save() {
 	console.log("Save");
 	var canvas = document.getElementById("myCanvas");
-
 	var img = canvas.toDataURL("image/png");
 	var w = window.open("");
 	w.document.write('<img src="' + img + '"/>');
@@ -20,6 +20,8 @@ document.getElementById("one").onclick = function() {
 	ctx.fillStyle = "white";
 	ctx.textAlign = "right";
 	ctx.fillText(firstName, 316, 566);
+	aye.href = "";
+	console.log("done");
 };
 
 document.getElementById("two").onclick = function() {
@@ -32,6 +34,8 @@ document.getElementById("two").onclick = function() {
 	ctx.fillStyle = "white";
 	ctx.textAlign = "right";
 	ctx.fillText(firstName, 316, 566);
+	aye.href = ""
+	console.log("done");
 };
 
 document.getElementById("three").onclick = function() {
@@ -44,6 +48,8 @@ document.getElementById("three").onclick = function() {
 	ctx.fillStyle = "white";
 	ctx.textAlign = "right";
 	ctx.fillText(firstName, 316, 566);
+	aye.href = "";
+	console.log("done");
 };
 
 document.getElementById("four").onclick = function() {
@@ -56,28 +62,6 @@ document.getElementById("four").onclick = function() {
 	ctx.fillStyle = "white";
 	ctx.textAlign = "right";
 	ctx.fillText(firstName, 316, 566);
+	aye.href = "";
+	console.log("done");
 };
-
-
-
-
-
-
-
-function downloadCanvas(link, canvasId, filename) {
-	link.href = document.getElementById(canvasId).toDataURL();
-	link.download = filename;
-}
-
-/**
- * The event handler for the link's onclick event. We give THIS as a
- * parameter (=the link element), ID of the canvas and a filename.
-*/
-document.getElementById("download").addEventListener(
-	"click",
-	function() {
-		console.log("Download");
-		downloadCanvas(this, "myCanvas", "test.png");
-	},
-	false
-);
