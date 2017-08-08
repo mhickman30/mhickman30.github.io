@@ -1,14 +1,16 @@
 var firstName = "Matt Hickman";
 var aye = document.getElementById("downlink");
 
-var c = document.getElementById("myCanvas");
-var ctx = c.getContext("2d");
-var img = document.getElementById("one");
-ctx.drawImage(img, 0, 0, 324, 576);
-ctx.font = "18px Dancing Script";
-ctx.fillStyle = "white";
-ctx.textAlign = "right";
-ctx.fillText(firstName, 316, 566);
+document.onload = function(){
+	var c = document.getElementById("myCanvas");
+	var ctx = c.getContext("2d");
+	var img = document.getElementById("one");
+	ctx.drawImage(img, 0, 0, 324, 576);
+	ctx.font = "18px Dancing Script";
+	ctx.fillStyle = "white";
+	ctx.textAlign = "right";
+	ctx.fillText(firstName, 316, 566);
+};
 
 document.getElementById("one").onclick = function() {
 	console.log("One");
