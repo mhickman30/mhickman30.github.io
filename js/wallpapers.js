@@ -12,7 +12,7 @@ document.getElementById("one").onclick = function() {
 	ctx.textAlign = "right";
 	ctx.fillText(firstName, 316, 566);
 	aye.href = "/images/wallpapers/IMG_9238-signed.png";
-	console.log("done");
+	console.log("href changed to /images/wallpapers/IMG_9238-signed.png");
 };
 
 document.getElementById("two").onclick = function() {
@@ -26,7 +26,7 @@ document.getElementById("two").onclick = function() {
 	ctx.textAlign = "right";
 	ctx.fillText(firstName, 316, 566);
 	aye.href = "/images/wallpapers/IMG_9304-signed.png"
-	console.log("done");
+	console.log("href changed to /images/wallpapers/IMG_9304-signed.png");
 };
 
 document.getElementById("three").onclick = function() {
@@ -40,7 +40,7 @@ document.getElementById("three").onclick = function() {
 	ctx.textAlign = "right";
 	ctx.fillText(firstName, 316, 566);
 	aye.href = "/images/wallpapers/MDH_5098-signed.png";
-	console.log("done");
+	console.log("href changed to /images/wallpapers/MDH_5098-signed.png");
 };
 
 document.getElementById("four").onclick = function() {
@@ -54,5 +54,5 @@ document.getElementById("four").onclick = function() {
 	ctx.textAlign = "right";
 	ctx.fillText(firstName, 316, 566);
 	aye.href = "/images/wallpapers/MDH_8479-signed.png";
-	console.log("done");
+	console.log("href changed to /images/wallpapers/MDH_8479-signed.png");
 };
