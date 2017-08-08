@@ -221,3 +221,7 @@ button:hover {
   color: white;
   background-color: black;
 }
+
+button {
+  outline: none;
+}
