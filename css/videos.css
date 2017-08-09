@@ -229,7 +229,7 @@ button {
 .intrinsic-container {
   margin-bottom: 20px;
   position: relative;
-  height: 0;
+  
   overflow: hidden;
 }
 
