@@ -232,6 +232,7 @@ button {
   padding-top: 35px;
   height: 0;
   overflow: hidden;
+  margin: 20px 10px;
 }
 
 .intrinsic-container iframe {
