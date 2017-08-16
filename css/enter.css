@@ -86,3 +86,11 @@ body {
   bottom: 0;
   padding-bottom: 30px;
 }
+
+.top {
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: 0;
+  padding-top: 30px;
+}
