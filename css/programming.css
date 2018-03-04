@@ -2,7 +2,7 @@
   #fff    white
   #f4f4ef newsprint
   #103572 navy blue
-  #7df9ff electric blue
+  #9db6fc electric blue
 */
 
 body {
@@ -164,7 +164,7 @@ p {
 
   a {
     text-decoration: none;
-    color: #7df9ff;
+    color: #9db6fc;
   }
   a:hover {
     text-decoration: underline;
@@ -189,11 +189,11 @@ h4 {
 }
 
 .fa-stack {
-  color: #7df9ff;
+  color: #9db6fc;
 }
 
 #mattNav {
-  color: #7df9ff;
+  color: #9db6fc;
   pointer-events: none;
   cursor: default;
 }
