@@ -11,6 +11,7 @@ body {
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-size: cover;
+  font-family: 'Karla', sans-serif;
 }
 
 .navbar {
@@ -39,7 +40,7 @@ body {
 #programmer {
   font-size: 4.5vw;
   padding-top: 0px;
-  background-color: #7df9ff;
+  background-color: #9db6fc;
   width: 30%;
   text-shadow: 4px 4px black;
   margin: auto;
@@ -89,7 +90,7 @@ body {
 }
 
 .sectionHeader {
-  border: 2px solid #7df9ff;
+  border: 2px solid #9db6fc;
   padding: 0.5em;
   color: white;
   font-size: 24px;
@@ -156,6 +157,7 @@ p {
 
 #myCarousel {
   padding-bottom: 30px;
+  font-family: 'Karla', sans-serif;
   p {
     text-align: center;
   }
@@ -175,6 +177,7 @@ h4 {
 }
 
 .carousel-caption {
+    font-family: 'Karla', sans-serif;
     position: relative;
     left: auto;
     right: auto;
