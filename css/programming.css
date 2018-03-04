@@ -44,6 +44,7 @@ body {
   width: 30%;
   text-shadow: 4px 4px black;
   margin: auto;
+  border: 2px solid white;
 }
 
 #about {
@@ -126,7 +127,7 @@ p {
 #mattImage {
   margin: auto;
   margin-bottom: 50px;
-  border: 2px dashed white;
+  border: 2px solid white;
 }
 
 #footer {
