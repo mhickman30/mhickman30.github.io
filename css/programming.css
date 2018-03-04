@@ -180,6 +180,11 @@ h4 {
     right: auto;
 }
 
+.carousel-caption p {
+    position: relative;
+    text-align: center;
+}
+
 .fa-stack {
   color: #7df9ff;
 }
