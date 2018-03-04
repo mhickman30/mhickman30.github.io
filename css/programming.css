@@ -1,0 +1,191 @@
+/* ****  COLORS ****
+  #fff    white
+  #f4f4ef newsprint
+  #103572 navy blue
+  #7df9ff electric blue
+*/
+
+body {
+  background-image: url("http://www.fia-uimp.com/upload/2017/10/29/blurred-christmas-lights-blue-picture-free-photograph-photos-blue-lights-christmas-l-51a83f8c612c3b80.jpg"); /*url("https://pixabay.com/get/e83db7062cf4003ed1534705fb0938c9bd22ffd41db9154395f6c47ba0/blurred-1869401_1920.jpg");*/
+  background-position: 100% 50%;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
+
+.navbar {
+  background-color: black;
+  color: red;
+  margin-bottom: 0;
+  padding: 10px;
+  border-bottom: none;
+  font-family: 'Karla', sans-serif;
+  font-size: 1.3em;
+  text-transform: uppercase;
+  letter-spacing: 3px;
+  border-bottom: 2px solid white;
+}
+
+#test1 {
+  padding: 190px 20px 80px 20px;
+  background-color: transparent;
+  text-align: center;
+  color: white;
+  font-size: 6vw;
+  font-family: 'Karla', sans-serif;
+  text-shadow: 4px 4px 2px black, 2px 2px 1px #7df9ff;
+}
+
+#future {
+  font-size: 4.5vw;
+  padding-top: 0px;
+  background-color: #7df9ff;
+  width: 30%;
+  text-shadow: 4px 4px black;
+  margin: auto;
+}
+
+#about {
+  background-color: black;
+  text-align: center;
+  color: red;
+  margin-top: 50px;
+  border-top: 2px solid white;
+  border-bottom: 2px solid white;
+}
+
+#portfolio {
+  background-color: black;
+  text-align: center;
+  color: red;
+  margin-top: 50px;
+  border-top: 2px solid white;
+  border-bottom: 2px solid white;
+}
+
+#connect {
+  background-color: black;
+  text-align: center;
+  color: red;
+  margin-top: 50px;
+  border-top: 2px solid white;
+  border-bottom: 2px solid white;
+}
+
+#test3 {
+  background-color: transparent;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  text-align: center;
+  color: red;
+}
+
+#test5 {
+  padding-top: 20px;
+  padding-bottom: 20px;
+  background-color: #103572;
+  text-align: center;
+  color: red;
+}
+
+.sectionHeader {
+  border: 2px solid #7df9ff;
+  padding: 0.5em;
+  color: white;
+  font-size: 24px;
+  font-family: 'Karla', sans-serif;
+  text-decoration: none;
+  :hover {
+    text-decoration: none;
+    color:white;
+  }
+}
+
+.row {
+  background-color: black;
+}
+
+.section {
+  max-width: 970px;
+  margin: auto;
+}
+
+p {
+  padding-top: 0px;
+  color: white;
+  font-size: 18px;
+  line-height: 1.75em;
+  text-align: left;
+}
+
+.my-containers {
+  padding: 1em 5em;
+}
+
+#mattImage {
+  margin: auto;
+  margin-bottom: 50px;
+  border: 2px dashed white;
+}
+
+#footer {
+  background-color: black;
+  p {
+    text-align: center;
+  }
+}
+
+.copyright {
+  font-size: 18px;
+}
+
+#aboutMatt {
+  margin-bottom: 40px;
+  text-decoration: none;
+  color: white;
+  :hover {
+    text-decoration: none;
+    color: white;
+  }
+}
+
+#portfolioMatt {
+  margin-bottom: 40px;
+}
+
+
+#myCarousel {
+  padding-bottom: 30px;
+  p {
+    text-align: center;
+  }
+
+  a {
+    text-decoration: none;
+    color: #7df9ff;
+  }
+  a:hover {
+    text-decoration: underline;
+  }
+}
+
+h4 {
+  color: white;
+  padding-bottom: 20px;
+}
+
+.carousel-caption {
+    position: relative;
+    left: auto;
+    right: auto;
+}
+
+.fa-stack {
+  color: #7df9ff;
+}
+
+#mattNav {
+  color: #7df9ff;
+  pointer-events: none;
+  cursor: default;
+}
