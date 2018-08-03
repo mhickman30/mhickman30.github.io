@@ -71,11 +71,12 @@ a:visited {
 }
 
 body {
-  background-image: url('/images/MDH_3489.jpg');
+  background-image: url('/images/logos/LogoChevron.png');
   background-position: 100% 50%;
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-size: cover;
+  background-color: black;
 }
 
 .bottom {
