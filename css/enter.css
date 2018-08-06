@@ -71,12 +71,12 @@ a:visited {
 }
 
 body {
-  background-image: url('/images/logos/FlickmanChevron.png');
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-size: cover;
   background-color: black;
   background-position: center;
+  background: url('/images/logos/FlickmanChevron.png') no-repeat center center fixed;
 }
 
 .bottom {
