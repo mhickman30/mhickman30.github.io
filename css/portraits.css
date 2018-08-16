@@ -22,7 +22,7 @@ body {
 }
 
 .photologo {
-  height: 150%;
+  height: 200%;
 }
 
 img {
@@ -60,7 +60,7 @@ a {
   width: 22px;
   height: 2px;
   border-radius: 1px;
-  background-color: black;
+  background-color: white;
 }
 
 /*Styles the actual button for dropdown nav on mobile*/
@@ -74,7 +74,7 @@ a {
   margin-bottom: 8px;
   background-color: transparent;
   background-image: none;
-  border: 1px solid black;
+  border: 1px solid white;
   border-radius: 4px;
 }
 
@@ -177,4 +177,13 @@ a:focus, a:hover {
 
 li a {
   cursor: default;
+}
+
+.navbar-brand {
+  position: fixed;
+  height: 50px;
+  padding-top: 10px;
+  padding-bottom: 15px;
+  font-size: 18px;
+  line-height: 20px;
 }
