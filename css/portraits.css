@@ -46,7 +46,7 @@ a {
 
 .navbar .navbar-nav>li>a:focus, .navbar .navbar-nav>li>a:hover {
   color: white;
-  background-color: lightgray;
+  background-color: gray;
 }
 
 .logo {
