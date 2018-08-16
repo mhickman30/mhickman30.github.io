@@ -25,6 +25,10 @@ body {
   height: 150%;
 }
 
+img {
+  border: 2 px solid white;
+}
+
 .navbar {
   background-color: white;
   margin-bottom: 0;
