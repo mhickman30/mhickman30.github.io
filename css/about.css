@@ -18,7 +18,11 @@ body {
 }
 
 .photologo {
-  height: 150%;
+  height: 200%;
+}
+
+.photologo:hover {
+  border: none;
 }
 
 .navbar {
