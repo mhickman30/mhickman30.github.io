@@ -176,6 +176,8 @@ li a {
   cursor: default;
 }
 
-.tester {
-  color: red;
+.flickman {
+  color: #81cdf9;
+  font-family: 'Righteous', sans-serif;
+  text-transform: lowercase;
 }
