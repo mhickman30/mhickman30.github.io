@@ -1,38 +1,41 @@
 <!DOCTYPE html>
 <html>
 
-  <head>
-    <!-- Global site tag (gtag.js) - Google Analytics -->
-    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-110038480-1"></script>
-    <script>
-      window.dataLayer = window.dataLayer || [];
-      function gtag(){dataLayer.push(arguments);}
-      gtag('js', new Date());
+<head>
+  <!-- Global site tag (gtag.js) - Google Analytics -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=UA-110038480-1"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
 
-      gtag('config', 'UA-110038480-1');
-    </script>
-    <title>Wallpapers | Matt Hickman Photography</title>
+    function gtag() {
+      dataLayer.push(arguments);
+    }
+    gtag('js', new Date());
 
-    <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
-    <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
-    <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
-    <link rel="manifest" href="/manifest.json">
-    <link rel="mask-icon" href="/safari-pinned-tab.svg" color="#92cdde">
-    <meta name="theme-color" content="#ffffff">
+    gtag('config', 'UA-110038480-1');
+  </script>
+  <title>Wallpapers | Matt Hickman Photography</title>
 
-    <link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
-    <meta charset="utf-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
-    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
-    <link href='https://fonts.googleapis.com/css?family=Karla' rel='stylesheet'>
-    <link href='https://fonts.googleapis.com/css?family=Dancing Script' rel='stylesheet'>
-    <link rel="stylesheet" type="text/css" href="/css/wallpapers.css" />
-    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.0/jquery.min.js"></script>
-    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+  <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+  <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+  <link rel="manifest" href="/manifest.json">
+  <link rel="mask-icon" href="/safari-pinned-tab.svg" color="#92cdde">
+  <meta name="theme-color" content="#ffffff">
 
-  </head>
+  <link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+  <link href='https://fonts.googleapis.com/css?family=Karla' rel='stylesheet'>
+  <link href='https://fonts.googleapis.com/css?family=Dancing Script' rel='stylesheet'>
+  <link rel="stylesheet" type="text/css" href="/css/wallpapers.css" />
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.0/jquery.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+
+</head>
 
 <body data-target=".navbar" data-offset="50">
   <nav class="navbar navbar-fixed-top">
@@ -51,7 +54,7 @@
         <ul class="nav navbar-nav navbar-right">
           <li><a href="/portraits/">Portraits</a></li>
           <li><a href="/cityscapes/">Cityscapes</a></li>
-          <li class = "active"><a class = "current" href="/wallpapers/">Wallpapers</a></li>
+          <li class="active"><a class="current" href="/wallpapers/">Wallpapers</a></li>
           <li><a href="/about/">About</a></li>
           <li><a href="/videos/">Videos</a></li>
         </ul>
@@ -60,51 +63,50 @@
   </nav>
 
 
-<div class = "wrapper">
+  <div class="wrapper">
 
-  <div class = "about-title">
-    <h1>Wallpapers</h1>
-    <div class = "center-line"></div>
-  </div>
-
-<div class = "container-fluid">
-
-  <div class="row">
-   <div class="col-3">
-   </div>
-   <div class="middle col-6">
-    <div class="images">
-     <br>
-  		<span><img id = "one" class = "thumb" src = "/images/wallpapers/IMG_9238.jpg"></span><span><img id = "two" class = "thumb" src = "/images/wallpapers/IMG_9304.jpg"></span><span><img id = "three" class = "thumb" src = "/images/wallpapers/MDH_5098.jpg"></span>
-      <span><img id = "four" class = "thumb" src = "/images/wallpapers/MDH_8479.jpg"></span>
+    <div class="about-title">
+      <h1>Wallpapers</h1>
+      <div class="center-line"></div>
     </div>
-    <canvas id="myCanvas" width="324" height="576"></canvas>
-    <br>
-    <a id = "downlink" href="/images/wallpapers/IMG_9238-signed.png" download="MHWallpaper.png"><button class="welcome-btn" id = "download">Download</button></a>
-    <br>
 
-   </div>
-   <div class="col-3"></div>
+    <div class="container-fluid">
+
+      <div class="row">
+        <div class="col-3">
+        </div>
+        <div class="middle col-6">
+          <div class="images">
+            <br>
+            <span><img id = "one" class = "thumb" src = "/images/wallpapers/IMG_9238.jpg"></span><span><img id = "two" class = "thumb" src = "/images/wallpapers/IMG_9304.jpg"></span><span><img id = "three" class = "thumb" src = "/images/wallpapers/MDH_5098.jpg"></span>
+            <span><img id = "four" class = "thumb" src = "/images/wallpapers/MDH_8479.jpg"></span>
+          </div>
+          <canvas id="myCanvas" width="324" height="576"></canvas>
+          <br>
+          <a id="downlink" href="/images/wallpapers/IMG_9238-signed.png" download="MHWallpaper.png"><button class="welcome-btn" id = "download">Download</button></a>
+          <br>
+
+        </div>
+        <div class="col-3"></div>
+      </div>
+
+    </div>
+
+    <div class="push"></div>
   </div>
 
-</div>
-
-<div class = "push"></div>
-</div>
 
 
 
 
+  <footer class="footer">
+    <div class="container">
+      <p class="copyright">&copy; 2019 Matt Hickman. All rights reserved.</p>
+    </div>
+  </footer>
 
-<footer class = "footer">
-  <div class = "container">
-    <p class="copyright">&copy; 2018 Matt Hickman. All rights reserved.</p>
-  </div>
-</footer>
-
-<script type= "text/javascript" src = "/js/wallpapers.js">
-
-</script>
+  <script type="text/javascript" src="/js/wallpapers.js">
+  </script>
 </body>
 
 </html>
