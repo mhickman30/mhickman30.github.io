@@ -137,6 +137,7 @@ a:focus, a:hover {
   font-size: 18px;
   color: white;
   padding-top: 9px;
+  border-top: white;
 }
 
 .footer {
