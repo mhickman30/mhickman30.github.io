@@ -182,3 +182,8 @@ li a {
   font-family: 'Righteous', sans-serif;
   text-transform: lowercase;
 }
+
+.flickman:hover {
+  color: inherit;
+  cursor: default;
+}
