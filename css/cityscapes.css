@@ -175,3 +175,7 @@ a:focus, a:hover {
 li a {
   cursor: default;
 }
+
+.tester {
+  color: red;
+}
