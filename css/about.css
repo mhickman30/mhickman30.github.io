@@ -121,6 +121,7 @@ a {
 #connect {
   margin-bottom: 20px;
   margin-top: 10px;
+  font-family: 'Righteous', sans-serif;
 }
 
 a:focus, a:hover {
