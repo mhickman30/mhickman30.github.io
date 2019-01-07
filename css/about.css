@@ -105,7 +105,7 @@ a {
 .center-line {
   height: 2px;
   width: 25%;
-  background-color: black;
+  background-color: white;
   margin: auto;
 }
 
@@ -165,5 +165,17 @@ a:focus, a:hover {
 }
 
 li a {
+  cursor: default;
+}
+
+.flickman {
+  color: #c1e7fa;
+  font-size: 1.5em;
+  font-family: 'Righteous', sans-serif;
+  text-transform: lowercase;
+}
+
+.flickman:hover {
+  color: inherit;
   cursor: default;
 }
