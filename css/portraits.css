@@ -181,15 +181,6 @@ li a {
   cursor: default;
 }
 
-.navbar-brand {
-  position: fixed;
-  height: 50px;
-  padding-top: 10px;
-  padding-bottom: 15px;
-  font-size: 18px;
-  line-height: 20px;
-}
-
 .flickman {
   color: #c1e7fa;
   font-size: 1.5em;
@@ -198,6 +189,6 @@ li a {
 }
 
 .flickman:hover {
-  color: inherit;
+  color: #c1e7fa;
   cursor: default;
 }
