@@ -21,7 +21,7 @@ document.getElementById("one").onclick = function() {
   ctx.font = "18px Dancing Script";
   ctx.fillStyle = "white";
   ctx.textAlign = "right";
-  ctx.fillText(firstName, 316, 566);
+  //ctx.fillText(firstName, 316, 566);
   aye.href = "/images/wallpapers/CapeTownWallpaper.png";
   console.log("href changed to /images/wallpapers/CapeTownWallpaper.png");
 };
@@ -35,7 +35,7 @@ document.getElementById("two").onclick = function() {
   ctx.font = "18px Dancing Script";
   ctx.fillStyle = "white";
   ctx.textAlign = "right";
-  ctx.fillText(firstName, 316, 566);
+  //ctx.fillText(firstName, 316, 566);
   aye.href = "/images/wallpapers/ShanghaiWallpaper.png"
   console.log("href changed to /images/wallpapers/ShanghaiWallpaper.png");
 };
@@ -49,7 +49,7 @@ document.getElementById("three").onclick = function() {
   ctx.font = "18px Dancing Script";
   ctx.fillStyle = "white";
   ctx.textAlign = "right";
-  ctx.fillText(firstName, 316, 566);
+  //ctx.fillText(firstName, 316, 566);
   aye.href = "/images/wallpapers/KyotoWallpaper.png";
   console.log("href changed to /images/wallpapers/KyotoWallpaper.png");
 };
@@ -63,7 +63,7 @@ document.getElementById("four").onclick = function() {
   ctx.font = "18px Dancing Script";
   ctx.fillStyle = "white";
   ctx.textAlign = "right";
-  ctx.fillText(firstName, 316, 566);
+  //ctx.fillText(firstName, 316, 566);
   aye.href = "/images/wallpapers/PortlandWallpaper.PNG";
   console.log("href changed to /images/wallpapers/PortlandWallpaper.PNG");
 };
