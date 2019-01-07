@@ -4,11 +4,7 @@ html {
 }
 
 body {
-  background-image: url('/images/mostfaded.png');
-  background-position: 100% 50%;
-  background-repeat: no-repeat;
-  background-attachment: fixed;
-  background-size: cover;
+  background-color: black;
   font-family: 'Karla', sans-serif;
   padding-top: 71px;
   height: 100%;
@@ -21,14 +17,14 @@ body {
 }
 
 .navbar {
-  background-color: white;
+  background-color: black;
   margin-bottom: 0;
   padding: 10px;
   font-family: 'Karla', sans-serif;
   font-size: 1.3em;
   text-transform: uppercase;
   letter-spacing: 3px;
-  border-bottom: 1px solid black;
+  border-bottom: 1px solid white;
 }
 
 a {
@@ -37,7 +33,7 @@ a {
 
 .navbar .navbar-nav>li>a:focus, .navbar .navbar-nav>li>a:hover {
   color: black;
-  background-color: lightgray;
+  background-color: gray;
 }
 
 .logo {
@@ -51,7 +47,7 @@ a {
   width: 22px;
   height: 2px;
   border-radius: 1px;
-  background-color: black;
+  background-color: white;
 }
 
 /*Styles the actual button for dropdown nav on mobile*/
@@ -65,7 +61,7 @@ a {
   margin-bottom: 8px;
   background-color: transparent;
   background-image: none;
-  border: 1px solid black;
+  border: 1px solid white;
   border-radius: 4px;
 }
 
@@ -78,6 +74,7 @@ a {
   font-size: 50px;
   color: white;
   text-shadow: 2px 2px black;
+  font-family: 'Righteous', sans-serif;
 }
 
 .matt-image {
@@ -131,6 +128,7 @@ a:focus, a:hover {
   font-size: 18px;
   color: black;
   padding-top: 9px;
+  border-top: 1px solid white;
 }
 
 .footer {
@@ -208,13 +206,13 @@ img:hover {
 
 .welcome-btn {
   padding: 12px 5px;
-  color: black;
+  color: white;
   width: 120px;
   display: inline-block;
   text-transform: uppercase;
   letter-spacing: 1px;
   background-color: transparent;
-  border: 2px black solid;
+  border: 2px white solid;
   margin: 0 5px;
   margin-bottom: 30px;
 }
