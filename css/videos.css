@@ -236,6 +236,7 @@ button {
   font-size: 1.5em;
   font-family: 'Righteous', sans-serif;
   text-transform: lowercase;
+  letter-spacing: normal;
 }
 
 .flickman:hover {
