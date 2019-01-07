@@ -36,8 +36,8 @@ document.getElementById("two").onclick = function() {
   ctx.fillStyle = "white";
   ctx.textAlign = "right";
   ctx.fillText(firstName, 316, 566);
-  aye.href = "/images/wallpapers/IMG_9304-signed.png"
-  console.log("href changed to /images/wallpapers/IMG_9304-signed.png");
+  aye.href = "/images/wallpapers/ShanghaiWallpaper.png"
+  console.log("href changed to /images/wallpapers/ShanghaiWallpaper.png");
 };
 
 document.getElementById("three").onclick = function() {
@@ -50,8 +50,8 @@ document.getElementById("three").onclick = function() {
   ctx.fillStyle = "white";
   ctx.textAlign = "right";
   ctx.fillText(firstName, 316, 566);
-  aye.href = "/images/wallpapers/MDH_5098-signed.png";
-  console.log("href changed to /images/wallpapers/MDH_5098-signed.png");
+  aye.href = "/images/wallpapers/KyotoWallpaper.png";
+  console.log("href changed to /images/wallpapers/KyotoWallpaper.png");
 };
 
 document.getElementById("four").onclick = function() {
@@ -64,6 +64,6 @@ document.getElementById("four").onclick = function() {
   ctx.fillStyle = "white";
   ctx.textAlign = "right";
   ctx.fillText(firstName, 316, 566);
-  aye.href = "/images/wallpapers/MDH_8479-signed.png";
-  console.log("href changed to /images/wallpapers/MDH_8479-signed.png");
+  aye.href = "/images/wallpapers/PortlandWallpaper.PNG";
+  console.log("href changed to /images/wallpapers/PortlandWallpaper.PNG");
 };
