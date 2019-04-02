@@ -2,6 +2,20 @@
 <html>
 
 <head>
+  <script src="https://www.gstatic.com/firebasejs/5.9.2/firebase.js"></script>
+  <script>
+    // Initialize Firebase
+    var config = {
+      apiKey: "AIzaSyDtbPWBzJ874cLxlB4AfnSQJx5SOx3bRM4",
+      authDomain: "flickman-website.firebaseapp.com",
+      databaseURL: "https://flickman-website.firebaseio.com",
+      projectId: "flickman-website",
+      storageBucket: "flickman-website.appspot.com",
+      messagingSenderId: "624484617009"
+    };
+    firebase.initializeApp(config);
+  </script>
+	
   <!-- Global site tag (gtag.js) - Google Analytics -->
   <script async src="https://www.googletagmanager.com/gtag/js?id=UA-110038480-1"></script>
   <script>
@@ -142,19 +156,5 @@
 
 
 </body>
-
-  <script src="https://www.gstatic.com/firebasejs/5.9.2/firebase.js"></script>
-  <script>
-    // Initialize Firebase
-    var config = {
-      apiKey: "AIzaSyDtbPWBzJ874cLxlB4AfnSQJx5SOx3bRM4",
-      authDomain: "flickman-website.firebaseapp.com",
-      databaseURL: "https://flickman-website.firebaseio.com",
-      projectId: "flickman-website",
-      storageBucket: "flickman-website.appspot.com",
-      messagingSenderId: "624484617009"
-    };
-    firebase.initializeApp(config);
-  </script>
 
 </html>
