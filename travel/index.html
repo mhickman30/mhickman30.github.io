@@ -34,6 +34,7 @@
   <link href="https://fonts.googleapis.com/css?family=Righteous" rel="stylesheet">
   <link rel="stylesheet" type="text/css" href="/css/global.css" />
   <link rel="stylesheet" type="text/css" href="/css/travel.css" />
+
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.0/jquery.min.js"></script>
   <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
 
@@ -141,5 +142,19 @@
 
 
 </body>
+
+  <script src="https://www.gstatic.com/firebasejs/5.9.2/firebase.js"></script>
+  <script>
+    // Initialize Firebase
+    var config = {
+      apiKey: "AIzaSyDtbPWBzJ874cLxlB4AfnSQJx5SOx3bRM4",
+      authDomain: "flickman-website.firebaseapp.com",
+      databaseURL: "https://flickman-website.firebaseio.com",
+      projectId: "flickman-website",
+      storageBucket: "flickman-website.appspot.com",
+      messagingSenderId: "624484617009"
+    };
+    firebase.initializeApp(config);
+  </script>
 
 </html>
