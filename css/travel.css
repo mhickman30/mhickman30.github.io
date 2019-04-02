@@ -161,6 +161,11 @@ a:focus, a:hover {
   width: 100%;
   margin: 0 auto 30px auto;
   height: auto;
+  transition: transform .2s;
+}
+
+.cityscapes:hover {
+  transform: scale(1.05);
 }
 
 .center {
