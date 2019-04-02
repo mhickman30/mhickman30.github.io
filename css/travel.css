@@ -161,14 +161,27 @@ a:focus, a:hover {
   width: 100%;
   margin: 0 auto 30px auto;
   height: auto;
-  transition: transform .5s ease;
+  /*transition: transform .5s ease;*/
 }
 
-.cityscapes:hover {
+/*.cityscapes:hover {
   transform: scale(1.025);
+}*/
+
+.overlay {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  height: 100%;
+  width: 100%;
+  opacity: 0;
+  transition: .5s ease;
+  background-color: #000000;
 }
 
-.cityscapes:hover .overlay {
+.container:hover .overlay {
   opacity: 1;
 }
 
@@ -182,19 +195,6 @@ a:focus, a:hover {
   -ms-transform: translate(-50%, -50%);
   transform: translate(-50%, -50%);
   text-align: center;
-}
-
-.overlay {
-  position: absolute;
-  top: 0;
-  bottom: 0;
-  left: 0;
-  right: 0;
-  height: 100%;
-  width: 100%;
-  opacity: 0;
-  transition: .5s ease;
-  background-color: #000000;
 }
 
 .center {
