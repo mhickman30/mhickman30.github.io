@@ -10,3 +10,9 @@
   transform: scale(1.025);
   opacity: 1;
 }
+
+@media only screen and (max-device-width: 600px) { 
+	.cityscapes {
+		opacity: 1;
+	}
+}
