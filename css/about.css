@@ -7,7 +7,11 @@
 }
 
 a {
-  color: #9d9d9d;
+  color: blue;
+}
+
+a:hover {
+  color: white;
 }
 
 .about-title {
@@ -75,5 +79,5 @@ li a {
 }
 
 .specialFlickman {
-	font-family: 'Righteous', sans-serif;
+  font-family: 'Righteous', sans-serif;
 }
